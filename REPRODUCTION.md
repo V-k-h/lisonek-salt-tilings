@@ -28,7 +28,7 @@ manifest.
 | §9, order-24 KS pair | `check24.py` | 256 orthogonal bases, 2,048 rays, each vector in 3 bases |
 | Table 2 | `verify_table2_witnesses.py` | the stored witnesses for orders 12, 20, 24, 28, 36 reproduce the rows of the matrices, dim K = 8, 16, 8, 24, 24 and the slice weights; orders 44 and 48 follow from Thm 9.2(e) and Thm 9.8 |
 | Prop 9.3 | `paley_rank_check.py` | all ranks match |
-| Remark 11.7 (SAT) | `line_conj_sat.py 7 2 --prune` | rerun in progress; original run in `code/lineconj_p7_l2_pruned.log` (12 configurations, all UNSAT) |
+| Remark 11.7 (SAT) | `line_conj_sat.py 7 2 --prune` | 517 configurations pruned to 12 up to symmetry; all 12 UNSAT, none satisfiable (5,928 s) |
 | Remark 11.7 (classification), line-slice evidence | `butson_check.py butson/BH-10-5.txt butson/BH-14-7.txt` | 12,348 directions per class of BH(14,7), each with a slice of size 1 or p |
 | Prop 11.8, permutation planes | `rank_bound_check.py` | bound holds on 5,400 directions; 90 / 6 / 84, 7 planes of 18 |
 | Prop 11.2 | `equidist_check.py` | 259,308 tests, no violation |
