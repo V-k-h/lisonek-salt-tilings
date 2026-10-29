@@ -1,0 +1,6 @@
+p=7 sample 30000: 30000 subspaces with e1 not in K [41s]
+   E2 (f constant): 207
+   E2 (f square): 485
+   checked: 692
+   colouring verified: 692
+   FAILED: none

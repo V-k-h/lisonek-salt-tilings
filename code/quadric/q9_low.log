@@ -1,0 +1,5 @@
+p=3 m=2: 18 rows in F_3^6
+ dim K=4 (|K|=81): {('KS (counting unsolvable)', (2, 2, 2, 2, 2, 2, 2, 2, 2)): 648, 'solvable, weight-1 slice': 9963, ('solvable, no weight 1, colorable=True', (3, 3, 3, 3, 6)): 144, ('solvable, no weight 1, colorable=True', (3, 3, 3, 3, 3, 3)): 248, ('solvable, no weight 1, colorable=True', (3, 3, 3, 9)): 8}  [2s]
+ dim K=3 (|K|=27): {'solvable, weight-1 slice': 33864, ('solvable, no weight 1, colorable=True', (3, 3, 3, 3, 3, 3)): 16}  [1s]
+ dim K=2 (|K|=9): {'solvable, weight-1 slice': 11011}  [0s]
+ dim K=1 (|K|=3): {'solvable, weight-1 slice': 364}  [0s]

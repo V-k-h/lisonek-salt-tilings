@@ -1,0 +1,6 @@
+q=3^2 dim K=4: 11011 subspaces [7s]
+   KS by counting: 648
+   solvable, no weight 1, colourable=True: 400
+   solvable, weight-1 slice: 9963
+   all slice weights 2: {('e1 not in K', 'K not in z3=0'): 216, ('e1 in K', 'K not in z3=0'): 432}
+   counterexamples to Conjecture 2.2: 0

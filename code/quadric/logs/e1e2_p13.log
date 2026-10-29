@@ -1,0 +1,5 @@
+p=13 sample 40000 60: 40000 subspaces with e1 not in K [133s]
+   E1: 673
+   checked: 60
+   colouring verified: 60
+   FAILED: none

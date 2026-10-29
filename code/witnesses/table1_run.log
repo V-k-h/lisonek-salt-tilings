@@ -1,0 +1,5 @@
+order 12: rank 10, best dim K = 8, slice weights [3, 3, 3, 3]
+order 20: rank 18, best dim K = 16, slice weights [5, 5, 5, 5]
+order 24: rank 11, best dim K = 8, slice weights [3, 3, 3, 3, 3, 3, 3, 3]
+order 28: rank 26, best dim K = 24, slice weights [7, 7, 7, 7]
+order 36: rank 34, best dim K = 24, slice weights [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]

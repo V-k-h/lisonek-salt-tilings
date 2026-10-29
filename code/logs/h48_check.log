@@ -1,0 +1,14 @@
+dim row(R) = 23
+dim G = 24
+self-orthogonal: True  generators doubly-even: True
+weight distribution: {12: 17296, 16: 535095, 20: 3995376, 24: 7681680, 28: 3995376, 32: 535095, 36: 17296, 48: 1}
+orbit sizes: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+dim K_P = 16   n/2 - D = 16
+slice weights: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]  slices == orbits: True
+dim row(R) = 11
+dim G = 12
+self-orthogonal: True  generators doubly-even: True
+weight distribution: {8: 759, 12: 2576, 16: 759, 24: 1}
+orbit sizes: [3, 3, 3, 3, 3, 3, 3, 3]
+dim K_P = 8   n/2 - D = 8
+slice weights: [3, 3, 3, 3, 3, 3, 3, 3]  slices == orbits: True

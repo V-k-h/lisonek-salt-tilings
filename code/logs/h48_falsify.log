@@ -1,0 +1,7 @@
+cycle type (3, 3, 3, 3) ... parts 16  D = 8  dim K_P = 16
+cycle type (4, 4, 4, 4) ... parts 12  D = 6  dim K_P = 18
+cycle type (6, 6, 6, 6) ... parts 8  D = 4  dim K_P = 20
+cycle type (8, 8, 8, 8) ... parts 6  D = 3  dim K_P = 21
+cycle type (12, 12, 12, 12) ... parts 4  D = 2  dim K_P = 22
+cycle type (24, 24) ... parts 2  D = 1  dim K_P = 23
+local search: best D found = 2  (theorem says <= 8 for parts >= 3)

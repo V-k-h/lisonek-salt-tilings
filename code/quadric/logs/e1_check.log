@@ -1,0 +1,12 @@
+q=3^1: colourable: weight-1 slice dim 1: 1; colourable: weight-1 slice dim 2: 13; KS dim 3: 6; colourable by one pure tile dim 3: 1; colourable: weight-1 slice dim 3: 6; KS dim 4: 1
+mismatches: 0 [0s]
+q=5^1: colourable: weight-1 slice dim 1: 1; colourable: weight-1 slice dim 2: 31; KS dim 3: 20; colourable by one pure tile dim 3: 1; colourable: weight-1 slice dim 3: 10; KS dim 4: 1
+mismatches: 0 [0s]
+q=7^1: colourable: weight-1 slice dim 1: 1; colourable: weight-1 slice dim 2: 57; KS dim 3: 42; colourable by one pure tile dim 3: 1; colourable: weight-1 slice dim 3: 14; KS dim 4: 1
+mismatches: 0 [0s]
+q=3^2: colourable: weight-1 slice dim 1: 1; colourable: weight-1 slice dim 2: 121; colourable by one pure tile dim 3: 16; colourable: weight-1 slice dim 3: 1194; KS dim 4: 432; colourable by one pure tile dim 4: 184; colourable: weight-1 slice dim 4: 594; KS dim 5: 96; colourable by one pure tile dim 5: 25; KS dim 6: 1
+mismatches: 0 [0s]
+q=5^2: colourable: weight-1 slice dim 1: 1; colourable: weight-1 slice dim 2: 781; colourable by one pure tile dim 3: 36; colourable: weight-1 slice dim 3: 20270; KS dim 4: 12000; colourable by one pure tile dim 4: 1056; colourable: weight-1 slice dim 4: 7250; KS dim 5: 720; colourable by one pure tile dim 5: 61; KS dim 6: 1
+mismatches: 0 [29s]
+q=3^3: colourable: weight-1 slice dim 1: 1; colourable: weight-1 slice dim 2: 1093; colourable by one pure tile dim 3: 169; colourable: weight-1 slice dim 3: 99294; colourable by one pure tile dim 4: 19435; colourable: weight-1 slice dim 4: 906336; KS dim 5: 303264; colourable by one pure tile dim 5: 166153; colourable: weight-1 slice dim 5: 456354; KS dim 6: 73008; colourable by one pure tile dim 6: 26455; KS dim 7: 1014; colourable by one pure tile dim 7: 79; KS dim 8: 1
+mismatches: 0 [2120s]

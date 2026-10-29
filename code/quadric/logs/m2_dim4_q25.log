@@ -1,0 +1,9 @@
+# Run 2026-10-22 with ~/research/ks-hadamard-extensions/cluster/ks_cluster.py dimcheck 5 4 --nshards 100 (exact covers by CaDiCaL,
+# each model checked; Algorithm X in dim_m2_check.py was exponential on some q=25 subspaces). Shard files: cluster/out/.
+q=5^2 dim K=4: 508431 subspaces [2262s CPU over 100 shards]
+   expected number of 4-dim subspaces of F_5^6: 508431 -> complete
+   KS by counting: 15000
+   solvable, no weight 1, colourable=True: 16056
+   solvable, weight-1 slice: 477375
+   all slice weights 2: {('e1 in K', 'K not in z3=0'): 12000, ('e1 not in K', 'K not in z3=0'): 3000}
+   counterexamples to Conjecture 2.2: 0
